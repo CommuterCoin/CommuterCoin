@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CommuterCoin
+Comment=CommuterCoin P2P Cryptocurrency
+Comment[fr]=CommuterCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CommuterCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/commutercoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/commutercoin;
+Categories=Office;

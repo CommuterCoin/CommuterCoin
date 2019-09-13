@@ -1,0 +1,9 @@
+Building CommuterCoin
+
+See doc/readme-qt.rst for instructions on building CommuterCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CommuterCoin.
+
+See doc/build-*.txt for instructions on building commutercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CommuterCoin.

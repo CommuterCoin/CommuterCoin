@@ -1,0 +1,2 @@
+debian/bin/commutercoind usr/bin
+src/commutercoind usr/lib/commutercoin
