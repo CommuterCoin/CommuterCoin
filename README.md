@@ -1,3 +1,4 @@
-Development moved to https://gitlab.com/blacknet-ninja
+© 2019 CommuterCoin
+© SocialCryptos
 
-https://commutercoin.org/ aims to continue on CommuterCoin chain.
+Based on 2018's CommuterCoin COMC source, PoS added.
