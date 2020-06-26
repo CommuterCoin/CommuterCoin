@@ -9,3 +9,8 @@ Update 1.0 change log 10/14/2019 14/10/2019
 
   1. Replacement seed nodes
   2. Checkpoints
+
+Update 2.0 change log 26.06.20
+
+  1. Checkpoints
+  2. <c.20>
