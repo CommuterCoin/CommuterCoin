@@ -70,6 +70,12 @@ sudo apt-get install libqrencode-dev
 If using Boost 1.37, append -mt to the boost libraries in the makefile.
 
 
+Ubuntu 18.04
+------------------------------------
+sudo apt-get install libssl1.0-dev
+
+
+
 Dependency Build Instructions: Gentoo
 -------------------------------------
 
